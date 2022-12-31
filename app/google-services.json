@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "274614851790",
+    "firebase_url": "https://kpopstore-d5725-default-rtdb.firebaseio.com",
+    "project_id": "kpopstore-d5725",
+    "storage_bucket": "kpopstore-d5725.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:274614851790:android:6934350be7bfe15f82589f",
+        "android_client_info": {
+          "package_name": "com.example.kpopstore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "274614851790-5f7b0ap0kje4ne55q6k76ue8s3nl3h6i.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAuyNCuNVPoiP8683R5lEpVRFwcwDGGqxs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "274614851790-5f7b0ap0kje4ne55q6k76ue8s3nl3h6i.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
